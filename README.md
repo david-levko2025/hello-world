@@ -1,2 +1,1 @@
-# hello-world
-demo github project
+# GitHub Practice
